@@ -27,12 +27,18 @@ data.appendChild(job);
 
 //6. In the div id data section, create a div with an id of hobbies and give it the following information: Long romantic walks on the beach, candle light Big Mac dinners and tormenting the King.
 
-var hobbies = document.createElement('div');
-hobbies.id = 'hobbies';
-hobbies.innerHTML = 'Long romantic walks on the beach, candle light Big Mac dinners and tormenting the King.';
-data.appendChild(hobbies);
+// var hobbies = document.createElement('div');
+// hobbies.id = 'hobbies';
+// hobbies.innerHTML = 'Long romantic walks on the beach, candle light Big Mac dinners and tormenting the King.';
+// data.appendChild(hobbies);
 
 //7. In the div id data section, create a div with an id of location and give it the following information: Honolulu, HI.
+
+// var location = document.createElement('div');
+// location.id = 'id';
+// location.innerHTML = 'Honolulul, HI';
+// data.appendChild(location);
+
 
 //8. In the div id data section, create a div with an id of wants and give it the following information: Looking for a Mrs. McDonald.
 
